@@ -1,0 +1,9 @@
+1. cmd 열어서
+2. sqlplus / as sysdba; 마지막에 세미콜론 붙여서 엔터
+3.C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin 
+4. scott.sql을 찾아서
+5. @ 쓰고 드래그해서 마지막에 ; 쓰고 엔터
+6. alter user scott identified by tiger; 엔터
+7. conn scott/tiger; 엔터
+8. connected라고 나오면 성공
+9. show user; 엔터

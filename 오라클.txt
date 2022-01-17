@@ -1,0 +1,9 @@
+1. 오라클 다운로드  (https://www.oracle.com/database/technologies/xe-prior-release-downloads.html) 설치 후
+2. sqldeveloper 압축만 풀면 됨....
+3. sqldeveloper 켜서 왼쪽 상단에 + 표시 눌러서...
+4. 이름 아무렇게 쓰고
+5. 사용자 이름 : sys
+6. 비밀번호에 : 설치할때 썻던 비밀번호 입력
+7. 롤에 있는 권한을  sysdba로 바꿔서 실행
+8. 비밀번호는 필요하면 저장하기를 눌러 놓는다.
+9. 태스트 눌러서 왼쪽 하단에 상태 보면 성공이라고 나오면 제대로 된것....
